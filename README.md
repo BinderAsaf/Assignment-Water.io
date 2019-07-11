@@ -1,5 +1,5 @@
 # Water.io Assignment
-#### Using React Js
+#### Using React Js and Mobx for state management
 
 ## Install and Run :  
 npm install   
