@@ -8,6 +8,6 @@ npm start
 
 
 ## UI
-![alt text](x.JPG "UI")
-![alt text](https://github.com/BinderAsaf/Pagination/blob/master/%E2%80%8F%E2%80%8Fy.JPG?raw=true "UI")
+![alt text](UI1.JPG "UI")
+![alt text](UI2.JPG "UI")
 
