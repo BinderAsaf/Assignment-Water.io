@@ -1,0 +1,112 @@
+.App {
+  margin-left: 60px;
+}
+
+
+/* SIDEBAR CSS*/
+.sidenav {
+  height: 100%;
+  width: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #640404;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+.sidenav h2 {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  display: block;
+  margin-bottom: 30px;
+}
+.sidenav h3 {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  display: block;
+  margin-top: 30px;
+}
+.sidenav h4 {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #fff;
+  display: block; 
+}
+.sidenav h5 {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 12px;
+  color: #fff;
+  display: block; 
+}
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+ .inputDiv{
+  padding-left: 16px;
+ }
+ .fibColor{
+   background-color: #d38888d1;
+ }
+ .MarkColor{
+  background-color: #aca4a4d9;
+}
+.ExactPositionColor{
+  background-color: #be5555;
+}
+.InputBox{
+  font-size: 15px;
+  display: inline-block;
+  width: 30%;
+}
+.button {
+  border: none;
+  font-size: 30px;
+  padding-left: 30px;
+  margin-top: 5px;
+  background-color: #640404; 
+  color: white; 
+}
+.button:hover {
+ 
+  color: #c4baba;
+}
+.button:focus{
+  outline-width: 0;
+}
+
+
+/*MATRIX CSS*/
+.main {
+  margin-left: 250px; 
+  font-size: 28px; 
+  padding: 0px 10px;
+  margin-bottom: 80px;
+}
+.table{
+  text-align: center;
+  font-size:15px;
+  table-layout:fixed;
+  display:contents;
+  margin-top: 50px;
+}
+.table td {
+  padding: 10px;
+  
+ }
+ .table th {
+   padding: 10px;
+   background: #d21212;
+   color:white;
+  }
+ .tableDiv{
+  margin-top: 50px;
+  text-align: -webkit-center;
+ }
