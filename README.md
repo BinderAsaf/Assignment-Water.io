@@ -1,5 +1,5 @@
 # Water.io Assignment
-#### React Js
+#### Using React Js
 
 ## Install and Run :  
 npm install   
